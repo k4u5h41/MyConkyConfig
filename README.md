@@ -11,3 +11,12 @@ sudo nano /etc/conky/conky.conf
 
 ```
 
+Add to Startup
+
+1. go to Sessions and Startup
+![image](https://user-images.githubusercontent.com/66146701/144706201-a56f7283-0567-4a4e-be8b-b03b2421a26e.png)
+
+2. Create a new task
+![image](https://user-images.githubusercontent.com/66146701/144706239-bb5ddfd4-3c79-4b22-afc0-a35adba3ca5e.png)
+
+3. Restart the Machine
