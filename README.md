@@ -1,3 +1,5 @@
+💻 -1nf1n17yk1ng-
+
 # MyConkyConfig
 
 Tested on Kali 2021-12-04
